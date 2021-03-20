@@ -1,7 +1,6 @@
 # Spring 2020 - EE629 Final Project
 
-## Stevens Institute of Technology <br> Sanket Jain, Mansi Joshi, Neel Haria
-
+## Stevens Institute of Technology <br> Neel Haria, Sanket Jain, Mansi Joshi, 
 Aim of the project is to collect sensor data from Nodes to local servers and from the local server to the cloud server.
 
 Reason for this three part architecture is to allow scalability. The nodes and local servers are fairly easy to install physically.
